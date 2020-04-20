@@ -1,0 +1,6 @@
+name = "mywra"
+type = "javascript"
+account_id = "e70c4e22d55968471f298b8f2e59d9c6"
+workers_dev = true
+route = ""
+zone_id = ""
